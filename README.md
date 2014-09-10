@@ -1,0 +1,2 @@
+ServiceBusMQ.Adapter.ShuttleServiceBus
+======================================
